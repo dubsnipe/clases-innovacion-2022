@@ -2,7 +2,10 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-instructor
+sobre-esta-página
+sobre-el-instructor-del-curso
+información-sobre-la-imagen
+test
 introducción
 cross
 chapters-and-sub-chapters

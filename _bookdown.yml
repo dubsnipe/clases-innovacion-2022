@@ -1,5 +1,15 @@
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Capítulo "
 output_dir: "docs"
+output:
+  bookdown::gitbook:
+    includes:
+      in_header: mathjax-number.html
+  bookdown::pdf_book:
+    includes:
+      in_header: preamble.tex
+    latex_engine: xelatex
+    citation_package: natbib
+    keep_tex: yes

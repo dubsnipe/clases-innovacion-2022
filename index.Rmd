@@ -5,13 +5,23 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-cover-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Chess_Turk.jpg/640px-Chess_Turk.jpg
+cover-image: https://upload.wikimedia.org/wikipedia/commons/9/9d/Chess_Turk.jpg
 description: |
   Esta página contiene el contenido de la clase Introducción a la Innovación del ciclo I 2022 de la Escuela de Economía y Negocios.
 link-citations: yes
 github-repo: dubsnipe/clases-innovacion-2022
 ---
 
-# Instructor
+# Sobre esta página
+Esta página contiene el contenido de la clase Introducción a la Innovación del ciclo I 2022 de la Escuela de Economía y Negocios. Puede revisar
+
+![Chess turk](https://upload.wikimedia.org/wikipedia/commons/9/9d/Chess_Turk.jpg)
+
+El contenido de este recurso se irá modificando durante el desarrollo del curso.
+
+## Sobre el instructor del curso
 
 Emilio Velis es un defensor del movimiento abierto en áreas de impacto social como el desarrollo internacional y la sostenibilidad, con experiencia en documentación de proyectos, hardware abierto y tecnología apropiada. Actualmente es Director Ejecutivo de la Fundación Appropedia, una organización que contribuye a la Alianza para el Internet de la Producción. Además es Fellow 2021 de la Green Web Foundation, Líder del Capítulo de Creative Commons en El Salvador y miembro de la junta del Capítulo El Salvador de Internet Society, profesor hora clase (Introducción a la Innovación, fabricación digital) en la Escuela Superior de Economía y Negocios (ESEN, El Salvador) y del Seminario de Media y Tecnología en Brandeis University (Massachusetts, Estados Unidos).
+
+## Información sobre la imagen
+_El "mechanical turk" es un automatón falso creado por Wolfgang von Kempelen, después exhibido por Johann Nepomuk Maelzel. Imagen en el dominio público ([https://commons.wikimedia.org/wiki/File:Chess_Turk.jpg](Fuente))._
