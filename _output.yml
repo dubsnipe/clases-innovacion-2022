@@ -7,7 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado con bookdown</a></li>
     edit: https://github.com/dubsnipe/clases-innovacion-2022/edit/BRANCH/%s
-    download: ["pdf", "epub"]
+#    download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

@@ -27,6 +27,11 @@ Emilio Velis es un defensor del movimiento abierto en áreas de impacto social c
 _El "mechanical turk" es un automatón falso creado por Wolfgang von Kempelen, después exhibido por Johann Nepomuk Maelzel. Imagen en el dominio público ([https://commons.wikimedia.org/wiki/File:Chess_Turk.jpg](Fuente))._
 
 ## Test
-<iframe src="https://github.com/dubsnipe/clases-innovacion-2021/blob/main/01/01.html">
 
+```{r, include-url, out.width='100%', fig.cap="Embed Yihui's homepage as an iframe or screenshot.", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
+knitr::include_url('https://yihui.org')
+```
+
+```{r, include-url1, out.width='100%', fig.cap="Embed Yihui's homepage as an iframe or screenshot.", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
 knitr::include_url("https://github.com/dubsnipe/clases-innovacion-2021/blob/main/01/01.html")
+```

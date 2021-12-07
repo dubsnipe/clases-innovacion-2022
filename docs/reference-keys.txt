@@ -1,3 +1,5 @@
+fig:include-url
+fig:include-url1
 fig:nice-fig
 tab:nice-tab
 eq:binom
