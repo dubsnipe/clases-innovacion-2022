@@ -1,0 +1,5 @@
+# Incrustar otras páginas web
+
+```{r, include-url, out.width='100%', fig.cap="Embed Yihui's homepage as an iframe or screenshot.", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
+knitr::include_url('https://yihui.org')
+```

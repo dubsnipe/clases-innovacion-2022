@@ -1,0 +1,10 @@
+# Fundamentos sobre la innovación
+
+La innovación es uno concepto más, en el mundo de los negocios, que cae en la definición de _buzzword_, es decir, una palabra que muchas personas utilizan pero que es muy difícil de definir.
+
+```{r echo=F}
+knitr::include_url("https://www.youtube.com/embed/SPugRH_YJdQ")
+```
+
+## ¿Qué es la innovación?
+
