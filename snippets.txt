@@ -3,3 +3,27 @@
 ```{r, include-url, out.width='100%', fig.cap="Embed Yihui's homepage as an iframe or screenshot.", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
 knitr::include_url('https://yihui.org')
 ```
+
+
+# Notas
+
+Innovation is the adoption of new practice in a community.
+Innovation is the art of getting people to adopt change.
+Invention is a flower, innovation is a weed.
+Innovation is not simply invention; it is inventiveness put to use. Invention without innovation is a pastime. —Harold Evans
+
+
+[...] inventos que tienen éxito se adoptan para su uso como nuevos productos o procesos (Nigel & Cross)
+
+* Algunas innovaciones tiene éxito y se expanden a un uso generalizado y frecuentemente desplazan a las tecnologías más antiguas (difusión)
+* Otras innovaciones son aplicadas en campos para los que originalmente no habían sido previstas (transferencia tecnológica)
+* Las innovaciones significativas tienden a ser aquellas que han potenciado un avance sensacional en las capacidades humanas: producir bienes, salvar o destruir la vida, comunicarse, viajar (...)
+* Las innovaciones de trascendencia social son aquellas que tienen múltiples aplicaciones.
+* La innovación es la incorporación de un invento al proceso productivo
+  * difusión
+
+
+# Lista de herramientas
+
+- Cómo utilizar Zotero
+- La correcta utilización del canvas de propuesta de valor
