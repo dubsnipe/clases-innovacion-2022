@@ -26,9 +26,9 @@ _El "mechanical turk" es un automatón falso creado por Wolfgang von Kempelen, d
 
 ## Licencia
 
-::: {.center}
+:::: {.center}
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CC-BY-SA_icon_yellow.svg/640px-CC-BY-SA_icon_yellow.svg.png){width=50%}
-:::
+::::
 
 Este recurso tiene una licencia CC-BY-SA-4.0 (Creative Commons Atribución CompartirIgual 4.0). Esto significa que:
 
