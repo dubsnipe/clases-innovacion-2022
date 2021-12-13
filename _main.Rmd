@@ -15,7 +15,6 @@ github-repo: dubsnipe/clases-innovacion-2022
 # Sobre este recurso
 Esta página contiene el contenido de la clase Introducción a la Innovación del ciclo I 2022 de la Escuela de Economía y Negocios. El contenido de este recurso se irá modificando durante el desarrollo del curso.
 
-
 ![Mechanical chess turk](https://upload.wikimedia.org/wikipedia/commons/9/9d/Chess_Turk.jpg)
 
 ## Sobre el instructor del curso
@@ -24,7 +23,6 @@ Emilio Velis es un defensor del movimiento abierto en áreas de impacto social c
 
 ## Sobre la imagen
 _El "mechanical turk" es un automatón falso creado por Wolfgang von Kempelen, después exhibido por Johann Nepomuk Maelzel. Imagen en el dominio público ([Fuente](https://commons.wikimedia.org/wiki/File:Chess_Turk.jpg))._
-<<<<<<< HEAD
 
 ## Licencia
 Este recurso tiene una licencia CC-BY-SA-4.0 (Creative Commons Atribución CompartirIgual 4.0). Esto significa que:
@@ -33,8 +31,6 @@ Este recurso tiene una licencia CC-BY-SA-4.0 (Creative Commons Atribución Compa
 - Toda obra derivada deberá ser compartida con la misma licencia de forma pública, para permitir que otras personas reutilicen tu trabajo.
 
 Ambas condiciones deberán cumplirse para poder hacer uso de este cuaderno. ¡Ojalá te sea útil!
-=======
->>>>>>> d4868e15502b7ad3880fbcd775f28de9c220079e
 
 <!--chapter:end:index.Rmd-->
 
@@ -350,13 +346,6 @@ knitr::include_url("https://www.youtube.com/embed/SPugRH_YJdQ")
 >>>>>>> d4868e15502b7ad3880fbcd775f28de9c220079e
 
 <!--chapter:end:02-que-es-la-innovacion.Rmd-->
-
----
-title: "03-proceso-social-de-la-innovacion"
-author: "Emilio Velis"
-date: "12/13/2021"
-output: html_document
----
 
 # Title
 
