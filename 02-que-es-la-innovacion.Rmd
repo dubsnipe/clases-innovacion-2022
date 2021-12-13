@@ -1,5 +1,6 @@
 # Fundamentos sobre la innovación
 
+<<<<<<< HEAD
 La innovación es uno concepto más, en el mundo de los negocios, que cae en la definición de [_buzzword_](https://www.regenbig.es/buzzwords-palabras-o-expresiones-de-moda-que-inundan-las-conversaciones-de-negocios/), es decir, una palabra que muchas personas utilizan por moda pero cuya definición puede ser difícil de expresar. Entonces, ¿cómo podemos plantear la innovación?
 
 Un buen modo de iniciar es planteando lo que _no_ es innovación.
@@ -51,3 +52,13 @@ Existen muchos más criterios, pero ahora toca preguntarnos: ¿Qué valora nuest
 
 ### Recursos
 * Este ensayo contiene algunas ideas relacionadas a cómo definir y abordar la fealdad en la pintura como criterio para evaluar el arte. ^[https://www.theparisreview.org/blog/2018/07/31/ugliness-is-underrated-in-defense-of-ugly-paintings/]
+=======
+La innovación es uno concepto más, en el mundo de los negocios, que cae en la definición de _buzzword_, es decir, una palabra que muchas personas utilizan pero que es muy difícil de definir.
+
+```{r echo=F}
+knitr::include_url("https://www.youtube.com/embed/SPugRH_YJdQ")
+```
+
+## ¿Qué es la innovación?
+
+>>>>>>> d4868e15502b7ad3880fbcd775f28de9c220079e

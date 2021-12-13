@@ -1,7 +1,10 @@
 sobre-este-recurso
 sobre-el-instructor-del-curso
 sobre-la-imagen
+<<<<<<< HEAD
 licencia
+=======
+>>>>>>> d4868e15502b7ad3880fbcd775f28de9c220079e
 programa-de-clase
 antecedentes
 sobre-introducción-a-la-innovación
@@ -16,9 +19,13 @@ etapa-1-resultados-esperados
 etapa-2-evidencias-de-aprendizaje
 etapa-3plan-de-aprendizaje
 fundamentos-sobre-la-innovación
+<<<<<<< HEAD
 lo-que-no-es-innovación
 definamos-la-innovación
 por-qué-cuesta-definir-la-innovación
 la-innovación-es-como-el-arte
 recursos
 algunas-ideas
+=======
+qué-es-la-innovación
+>>>>>>> d4868e15502b7ad3880fbcd775f28de9c220079e
