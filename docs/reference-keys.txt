@@ -4,7 +4,6 @@ sobre-la-imagen
 licencia
 programa-de-clase
 antecedentes
-sobre-_introducción-a-la-innovación
 sobre-introducción-a-la-innovación
 resultados-esperados
 estrategia-metodológica
