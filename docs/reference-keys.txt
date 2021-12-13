@@ -1,6 +1,7 @@
 sobre-este-recurso
 sobre-el-instructor-del-curso
 sobre-la-imagen
+licencia
 programa-de-clase
 antecedentes
 sobre-introducción-a-la-innovación
@@ -15,4 +16,9 @@ etapa-1-resultados-esperados
 etapa-2-evidencias-de-aprendizaje
 etapa-3plan-de-aprendizaje
 fundamentos-sobre-la-innovación
-qué-es-la-innovación
+lo-que-no-es-innovación
+definamos-la-innovación
+por-qué-cuesta-definir-la-innovación
+la-innovación-es-como-el-arte
+recursos
+algunas-ideas
