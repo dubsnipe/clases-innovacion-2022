@@ -4,9 +4,8 @@ sobre-la-imagen
 licencia
 programa-de-clase
 antecedentes
+sobre-_introducción-a-la-innovación
 sobre-introducción-a-la-innovación
-esto-se-hará-con-base-en-la-la-investigación-y-discusión-sobre-las-características-individuales-y-organizacionales-requeridas-para-desarrollar-innovación-y-la-producción-creativa.-la-clase-utilizará-artículos-científicos-relevantes-al-tema-recursos-audiovisuales-y-herramientas-tecnológicas-para-estudiar-cómo-las-personas-las-organizaciones-y-las-sociedades-crean-propuestas-de-valor-para-el-desarrollo-sostenible-y-a-la-transformación-de-los-sistemas.-finalmente-se-desarrollará-un-proyecto-para-la-aplicación-de-estos-conceptos.
-sobre-introducción-a-la-innovación-1
 resultados-esperados
 estrategia-metodológica
 contenido
@@ -14,7 +13,6 @@ evaluación
 normas-generales-de-la-esen
 bibliografía-del-curso
 esquema-metodológico
-etapa-1-resultados-esperados
 etapa-2-evidencias-de-aprendizaje
 etapa-3plan-de-aprendizaje
 fundamentos-sobre-la-innovación
