@@ -16,6 +16,12 @@
   font-size: 80%;
 }
 
-.figure{
+.figure, iframe{
  text-align:center;
+ margin:0 auto;
+ display: block;
+}
+
+li .chapter{
+  font-weight:bold;
 }

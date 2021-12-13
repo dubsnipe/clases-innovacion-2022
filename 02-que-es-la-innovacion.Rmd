@@ -1,7 +1,6 @@
 # Fundamentos sobre la innovación
 
-<<<<<<< HEAD
-La innovación es uno concepto más, en el mundo de los negocios, que cae en la definición de [_buzzword_](https://www.regenbig.es/buzzwords-palabras-o-expresiones-de-moda-que-inundan-las-conversaciones-de-negocios/), es decir, una palabra que muchas personas utilizan por moda pero cuya definición puede ser difícil de expresar. Entonces, ¿cómo podemos plantear la innovación?
+La innovación es uno concepto más, en el mundo de los negocios, que cae en la definición de [*buzzword*](https://www.regenbig.es/buzzwords-palabras-o-expresiones-de-moda-que-inundan-las-conversaciones-de-negocios/), es decir, una palabra que muchas personas utilizan por moda pero cuya definición puede ser difícil de expresar. Entonces, ¿cómo podemos plantear la innovación?
 
 Un buen modo de iniciar es planteando lo que _no_ es innovación.
 
@@ -10,7 +9,7 @@ Un buen modo de iniciar es planteando lo que _no_ es innovación.
 A continuación hay una lista de definiciones que, aunque están muy relacionadas con la de innovación, no son idénticas:
 
 -Diseño: a partir del auge del _design thinking_, la innovación es una de las promesas planteadas a aquellas personas que pagan un curso para convertirse en diseñadorx. La verdad es que a menudo estas técnicas son útiles a la hora de desarrollar modelos de negocios y nuevos productos, pero no siempre son identificadas como innovaciones.
--Novedad: la premisa de que _todo lo nuevo es mejor_ es una [falacia lógica llamada _argumento ad novitatem_](https://es.wikipedia.org/wiki/Argumento_ad_novitatem) y es muy común entre proponentes de la innovación. Pero, ¿será cierto que lo nuevo es más innovador? Existen casos en los que las nuevas ideas, productos o servicios pueden estropear sistemas que funcionaban bien previamente.
+-Novedad: la premisa de que todo lo nuevo es mejor es una [falacia lógica llamada *argumento ad novitatem*](https://es.wikipedia.org/wiki/Argumento_ad_novitatem) y es muy común entre proponentes de la innovación. Pero, ¿será cierto que lo nuevo es más innovador? Existen casos en los que las nuevas ideas, productos o servicios pueden estropear sistemas que funcionaban bien previamente.
 -Tecnología: en los ámbitos técnicos, la innovación está muy ligada con la creación de nuevas tecnologías. No obstante, existen tecnologías nuevas desarrolladas cada día que no son consideradas innovaciones por el público en general. Un ejemplo es esta lista de [100 fracasos tecnológicos desde 2011](https://www.wizcase.com/blog/biggest-tech-failures/)^[Milner, V. (2021, March 18). The 100 Biggest Technology Fails Since 2011. WizCase. https://www.wizcase.com/blog/biggest-tech-failures/].
 
 ## Definamos la innovación
@@ -19,25 +18,21 @@ A continuación hay una lista de definiciones que, aunque están muy relacionada
 
 Antes de tirarte un concepto, quiero que hablemos de una analogía que me es útil para entender por qué a muchas personas les cuesta definir la innovación, pues en cierto modo, la innovación es como el arte.
 
-![Impressionists' camp by Charles Conder](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Charles_Conder_-_Impressionists%27_camp_-_Google_Art_Project.jpg/1200px-Charles_Conder_-_Impressionists%27_camp_-_Google_Art_Project.jpg)
+![*Impressionists' camp* by Charles Conder](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Charles_Conder_-_Impressionists%27_camp_-_Google_Art_Project.jpg/1200px-Charles_Conder_-_Impressionists%27_camp_-_Google_Art_Project.jpg)
 
 ¿Qué te parece esta obra de arte? ¿La ves linda? El autor de esta obra (circa 1889) es Charles Conder, un artista impresionista. El impresionismo es uno de los primeros géneros de arte en el siglo xx que tomó por sorpresa a muchos críticos por retar los cánones de lo que se considera bello. Para muchas personas, el arte era sinónimo a la belleza, un planteamiento basado en el Romanticismo e incluso la visión antropocéntrica del Renacimiento (es decir, que se centraba en el ser humano, y como las personas son bellas, el arte debe serlo también).
 
-Pero de repente, comienzan a surgir un montón de artistas que comienzan a desarrollar arte que es visto como feo. Algunos artistas en 1863 exponían sus obras en el [_Salon de Refusés_ (Salón de rechazados)](https://es.wikipedia.org/wiki/Salon_des_Refus%C3%A9s) ya que el Salón de París había considerado que estas obras no cumplían con los criterios de buen arte. Pero al pasar de los años, con el surgimiento de más exposiciones de obras rechazadas y la pérdida de credibilidad del Salón de París, el impresionismo comenzó a ganar atención por parte de más artistas y del público. Por eso hay mucho interés en artistas como Monet y Cezanne. Pero, a medida pasó el tiempo, ¡el arte comenzó a tener figuras más y más feas!
+Pero de repente, comienzan a surgir un montón de artistas que comienzan a desarrollar arte que es visto como feo. Algunos artistas en 1863 exponían sus obras en el [*Salon de Refusés* (Salón de rechazados)](https://es.wikipedia.org/wiki/Salon_des_Refus%C3%A9s) ya que el Salón de París había considerado que estas obras no cumplían con los criterios de buen arte. Pero al pasar de los años, con el surgimiento de más exposiciones de obras rechazadas y la pérdida de credibilidad del Salón de París, el impresionismo comenzó a ganar atención por parte de más artistas y del público. Por eso hay mucho interés en artistas como Monet y Cezanne. Pero, a medida pasó el tiempo, ¡el arte comenzó a tener figuras más y más feas!
 
-![The Night Cafe by Vincent van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Van_Gogh_The_Night_Cafe.jpg/640px-Van_Gogh_The_Night_Cafe.jpg)
+![*Le café de nuit* por Vincent van Gogh. Public Domain. Available at https://commons.wikimedia.org/wiki/File:Le_caf%C3%A9_de_nuit_(The_Night_Caf%C3%A9)_by_Vincent_van_Gogh.jpeg.
+](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Van_Gogh_The_Night_Cafe.jpg/640px-Van_Gogh_The_Night_Cafe.jpg)
 
-_Le café de nuit by Vincent van Gogh. Public Domain. Available at https://commons.wikimedia.org/wiki/File:Le_caf%C3%A9_de_nuit_(The_Night_Caf%C3%A9)_by_Vincent_van_Gogh.jpeg._
 
-![Starry Night by Vincent van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/640px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
-
-_Nuit étoilée by Vincent van Gogh_. Public Domain. Available at https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg._
+![*Nuit étoilée* por Vincent van Gogh_. Public Domain. Available at https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/640px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 Cuando pensamos en artistas como van Gogh en nuestra época, es común que muchas personas lo consideren como un gran artista y mencionen la _Noche estrellada_ entre sus pinturas favoritas, a pesar de que hace cien años, [la gente despreciaba sus obras y pensaba que eran horribles](https://medium.com/the-collector/van-goghs-ugliest-masterpiece-cac4d6677ad1). A medida que los criterios en el arte han ido cambiando, hemos colectivamente aprendido a apreciar ciertas obras no solamente a partir de lo que creemos que es "bello", sino también a través del impacto que nos genera, la destreza de las pintoras o el mensaje social y cultural que plantea. Hoy en día llegamos a apreciar a artistas como Banksy cuyo arte requiere menos habilidad técnica que la 
 
-![Banksy mural in Bethlehem](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bethlehem_Banksy.jpg/640px-Bethlehem_Banksy.jpg)
-_Banksy mural in Bethlehem. CC-BY-SA-4.0. Available at https://commons.wikimedia.org/wiki/File:Bethlehem_Banksy.jpg._
-
+![Mural de Banksy en Belén. CC-BY-SA-4.0. Available at https://commons.wikimedia.org/wiki/File:Bethlehem_Banksy.jpg.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bethlehem_Banksy.jpg/640px-Bethlehem_Banksy.jpg)
 
 ## La innovación es como el arte
 
@@ -51,14 +46,5 @@ _Banksy mural in Bethlehem. CC-BY-SA-4.0. Available at https://commons.wikimedia
 Existen muchos más criterios, pero ahora toca preguntarnos: ¿Qué valora nuestra sociedad de las innovaciones?
 
 ### Recursos
-* Este ensayo contiene algunas ideas relacionadas a cómo definir y abordar la fealdad en la pintura como criterio para evaluar el arte. ^[https://www.theparisreview.org/blog/2018/07/31/ugliness-is-underrated-in-defense-of-ugly-paintings/]
-=======
-La innovación es uno concepto más, en el mundo de los negocios, que cae en la definición de _buzzword_, es decir, una palabra que muchas personas utilizan pero que es muy difícil de definir.
 
-```{r echo=F}
-knitr::include_url("https://www.youtube.com/embed/SPugRH_YJdQ")
-```
-
-## ¿Qué es la innovación?
-
->>>>>>> d4868e15502b7ad3880fbcd775f28de9c220079e
+- Este ensayo contiene algunas ideas relacionadas a cómo definir y abordar la fealdad en la pintura como criterio para evaluar el arte. ^[https://www.theparisreview.org/blog/2018/07/31/ugliness-is-underrated-in-defense-of-ugly-paintings/]
