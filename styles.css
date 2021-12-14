@@ -22,6 +22,7 @@
  display: block;
 }
 
-li .chapter{
-  font-weight:bold;
+.summary > li > a:first-child{
+  font-weight:bolder;
+  font-size:120%;
 }
