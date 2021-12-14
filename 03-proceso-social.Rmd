@@ -1,4 +1,50 @@
-# Title
+# Cómo identificar la innovación
+
+Algunos de los criterios para identificar la innovación se muestran a continuación.
+
+## Criterios económicos
+
+- Capacidad de incorporación a procesos productivos: Las invenciones por sí mismas no son útiles a menos que se garantice su fabricación de forma efectiva, barata y segura. Existen productos que no son masificables o difíciles de masificar. Por ejemplo: productos muy caros de fabricar, servicios no estandarizados o documentados, materiales difíciles de obtener, procesos que requieren habilidades técnicas difíciles de transferir, equipo altamente especializado, productos con poca deseabilidad y un mercado limitado.
+- Adopción masiva: Muchas personas comienzan a utilizar el producto o servicio. Ejemplo: Pokémon Go!
+- Desplazan tecnologías más antiguas. A menudo, las innovaciones cambian el modo en el que las personas realizan actividades diarias, ya sea a nivel cotidiano o profesional. Ejemplos: Los automóviles eléctricos podrían eliminar la dependencia a combustibles fósiles, cambiando el mercado.
+- Generan éxito de mercado
+
+![*Fidget spinners* por Fidget Spinner. CC-BY-SA-4.0. Diponible en https://commons.wikimedia.org/wiki/File:Fidget_Spinners.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fidget_Spinners.jpg/640px-Fidget_Spinners.jpg)
+
+## Criterios sociales
+
+- Generan grandes beneficios a la humanidad. Ejemplos: las vacunas, la insulina, [beacons](https://australianhiker.com.au/advice/technology-on-the-trail-personal-locator-beacons/)
+- Producen bienes o servicios no existentes anteriormente. Ejemplo: viviendas de bajo costo (papel, adobe)
+- Permiten mejorar el modo en el que las personas se comunican.
+- Son capaces de destruir la vida de forma eficiente.
+
+![*Scheepsmaterialen op de METS 2011 in de RAI te Amsterdam* (personal locator beacon) por S.J. de Waard. CC-BY-SA-3.0. https://commons.wikimedia.org/wiki/File:Amsterdam_RAI_METS_2011_(151).JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Amsterdam_RAI_METS_2011_%28151%29.JPG/640px-Amsterdam_RAI_METS_2011_%28151%29.JPG)
+
+## Criterios ambientales
+
+- Reduce la huella de carbono o los efectos ambientales de tecnologías previas
+- Reduce el consumo energético o genera energía
+- Protege la biodiversidad
+- 
+
+## Criterios geográficos
+
+- Se adecúa a las necesidades específicas de una región
+- Solucionan problemas observados en regiones específicas
+- Permiten el desarrollo de actividades en ciertas zonas (producción artesanal, agropecuaria de productos específicos)
+
+
+
+# Características de las personas innovadoras
+
+
+# Características de las organizaciones innovadoras
+
+
+
+
+
+## 
 
 ![](img/sawyer.png)
 _Fuente: Sawyer, R. K. (2011). Explaining creativity: The science of human innovation. Oxford university press._

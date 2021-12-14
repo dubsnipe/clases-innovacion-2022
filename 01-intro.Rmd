@@ -26,7 +26,7 @@ Las principales estrategias metodológicas es esta cátedra serán las clases ex
 
 ## Contenido
 
-- Nociones básicas sobre la innovación
+- Definiciones sobre la innovación
   - Conceptos generales de la innovación
   - Complejidad y problemas enredados
   - Áreas de impacto de la innovación
@@ -136,7 +136,8 @@ Estos son algunos de los recursos utilizados en clases anteriores.
 
 ## Esquema metodológico
 
-Esta sección contiene una descripción de mi proceso de diseño para esta clase, más allá del programa de estudio. Está basado en Wiggns et al. (2015)^[Wiggins, G. P., Wiggins, G., & McTighe, J. (2005). Understanding by design. Ascd.] 
+Esta sección contiene una descripción de mi proceso de diseño para esta clase, más allá del programa de estudio. Está basado en Wiggns et al. (2015)^[Wiggins, G. P., Wiggins, G., & McTighe, J. (2005). Understanding by design. Ascd.]
+
 ### Etapa 1: Resultados esperados
 
 Al finalizar este curso, el alumno:
