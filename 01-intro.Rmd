@@ -15,39 +15,71 @@ Esto se hará con base en la la investigación y discusión sobre las caracterí
 
 ## Resultados esperados
 
-Al finalizar este curso, el alumno habrá:
+Al finalizar este curso, el alumno:
 
-* Conocido la definición, fundamentos históricos y teóricos sobre la innovación para identificar qué es y no es innovación desde un enfoque multidimensional que considere aspectos económicos, sociales, culturales y ambientales.
-* Identificado cómo las personas, las organizaciones y las sociedades accionan la innovación en diferentes campos de investigación, mercados y en la solución a problemas del desarrollo y la transformación de sistemas.
-* Aplicado técnicas y herramientas de innovación para el diseño de negocios o iniciativas de impacto social.
+* Conocerá la definición y fundamentos teóricos para identificar la innovación desde un enfoque multidimensional que  considere aspectos económicos, sociales, culturales y ambientales.
+*  Identificará cómo las personas, las organizaciones y las sociedades accionan la innovación en diferentes campos de  investigación, mercados y en la solución a problemas del desarrollo y la  transformación de sistemas.
+* Aplicará técnicas y herramientas de innovación para el diseño de negocios o iniciativas de impacto social.
 
-## Estrategia metodológica
-Las principales estrategias metodológicas es esta cátedra serán las clases expositivas, lectura de artículos y ensayos académicos, revisión de materiales bibliográficos multimedia (videos), investigación activa de recursos en línea, actividades de entrevista para la investigación de campo y talleres prácticos sobre el pensamiento de diseño (design thinking) y diseño de propuestas de valor.
+
+### Etapa 2: Evidencias de aprendizaje
+
+- R1
+  - Los estudiantes elaborarán una definición personal de la innovación a partir de (1) los recursos planteados en clase, (2) vídeos con definiciones planteadas por expertos en tecnología e innovación y (3) la lectura de un artículo sobre el concepto de definición integrada.^[Visser, W. (2020). Integrated Innovation: Applying Systems Thinking to Sustainable Innovation and Transformation. Sustainability, 12(13), 5247. El estudiante deberá ser capaz de plantear las similitudes y divergencias en las definiciones.
+]
+  - Se desarrollará una pequeña investigación individual sobre un tema escogido por el estudiante en la que se definan hitos de la innovación con base en los criterios de la innovación integrada.
+  - Se utilizará la tétrada de medios de McLuhan^[Adam, I. (2016). What Would McLuhan Say about the Smartphone? Applying McLuhan’s Tetrad to the Smartphone. Glocality, 2(1), 3. https://doi.org/10.5334/glo.9
+] como herramienta de prospectiva del posible impacto una innovación.
+- R2
+  - Los estudiantes explorarán el concepto de "problemas enredados" a partir de la creación de un mapa de actores en el que se estudiarán las dimensiones ambientales, sociales y tecnológicas de los problemas.
+  - *Examen*: Se explorará la creación de valor integrado a partir de un mapa de actores y una propuesta de valor con la capacidad de generar deseabilidad a cada uno de ellos.
+  - Se hará un repaso de herramientas como el Business Model Canvas, Value Proposition Canvas y otros con un enfoque orientado a la innovación integrada.
+  - Se elaborará una revisión bibliográfica formal (con referencias en formato APA) sobre un tipo de innovación para comparar los abordajes de cada una con respecto a criterios de la innovación integrada.
+- R3
+  - Los estudiantes desarrollarán un producto multimedia (podcast, reel o blog) enfocado en uno de los Objetivos de Desarrollo Sostenible.
+  - Para el proyecto final, los estudiantes evaluarán una propuesta tecnológica para la creación de una propuesta de innovación, documentada y justificada, a partir de una propuesta de valor que mejore el alcance original de la solución original.
+  - Los estudiantes son capaces de defender sus propuestas de innovación del proyecto fina
 
 ## Contenido
 
-- Definiciones sobre la innovación
-  - Conceptos generales de la innovación
-  - Complejidad y problemas enredados
-  - Áreas de impacto de la innovación
-  - Innovación integrada
-  - Tecnología e innovación
-- Innovación y sociedad
-  - El valor del diseño en la innovación
-  - La creación de propuestas de valor innovadoras
-  - La innovación desde las organizaciones 
-  - Incubación y aceleración de la innovación
-  - Innovación abierta
-  - Los ecosistemas de innovación
-- Innovación en acción
-  - Modelos de negocio innovadores
-  - Innovación centrada en las personas
-  - Prototipando la innovación 
-  - Comunicando la innovación
+*Unidad 1*
+1.1. Innovación. Definición
+1.2. Enfoques de la innovación
+    Invención e innovación
+    Creatividad e innovación
+    Enfoque individual y social
+1.3.
+1.4. Enfoque de sistemas
+1.5. Innovación integrada
+1.6. Consecuencias e impacto de la innovación
+    - Tétrada de McLuhan
+1.7. Problemas enredados.
+    - Mapa de actores
 
-## Evaluación
+*Unidad 2*
+2.1. Herramientas para la invención y resolución de problemas
+    Invención e ingeniería
+    Diseño centrado en las personas
+    Diseño de negocios
+    Marketing
+    Gestión y políticas
+    Economía del comportamiento
+2.3. Innovación en las organizaciones
+2.4. Ecosistemas de innovación
+2.5. Incubación y aceleración de la innovación
+2.6. Innovación abierta
 
-La metodología de evaluación del curso se basará en los siguientes componentes:
+*Unidad 3*
+3.1. Diseño de propuestas de valor
+3.2. Prototipado e innovación
+3.3 Comunicando la innovación
+
+
+## Formato de clases
+
+Las principales estrategias metodológicas es esta cátedra serán las clases expositivas, lectura de artículos y ensayos académicos, revisión de materiales bibliográficos multimedia (videos), investigación activa de recursos en línea, actividades de entrevista para la investigación de campo y talleres prácticos sobre el pensamiento de diseño (design thinking) y diseño de propuestas de valor.
+
+## Metodología de evaluación
 
 - Participación (15%) - Individual: Con el objetivo de incentivar la participación activa y propositiva de los alumnos, se ponderarán las intervenciones en las discusiones del material presentado de forma sincrónica y asincrónica, así como de las lecturas y otros recursos de la clase. La participación puede tomar lugar en las discusiones en vivo, así como en los diversos canales digitales habilitados para el curs. 
 - Anteproyecto de innovación (25%) - Grupal: En preparación al proyecto de innovación final, los estudiantes deberán preparar un anteproyecto donde seleccionen una innovación preexistente extraída de un repositorio de innovaciones (p. ej.: Appropedia), justificar su elección con base a una investigación sobre el potencial para la creación de valor (comercial o social) de innovaciones similares. (Los grupos serán de mínimo 4 personas, máximo 5). 
@@ -134,66 +166,8 @@ Estos son algunos de los recursos utilizados en clases anteriores.
 - Yoo, C. S. (2019). Rethinking Copyright and Personhood. University of Illinois Law Review, 2019(423), 41.
 
 
-## Esquema metodológico
 
-Esta sección contiene una descripción de mi proceso de diseño para esta clase, más allá del programa de estudio. Está basado en Wiggns et al. (2015)^[Wiggins, G. P., Wiggins, G., & McTighe, J. (2005). Understanding by design. Ascd.]
-
-### Etapa 1: Resultados esperados
-
-Al finalizar este curso, el alumno:
-
-- *R1*: Conocerá la definición y fundamentos teóricos para identificar la innovación desde un enfoque multidimensional que considere aspectos económicos, sociales, culturales y ambientales.
-- *R2*: Identificará cómo las personas, las organizaciones y las sociedades accionan la innovación en diferentes campos de investigación, mercados y en la solución a problemas del desarrollo y la transformación de sistemas.
-- *R3*: Aplicará técnicas y herramientas de innovación para el diseño de negocios o iniciativas de impacto social.
-
-Las preguntas esenciales a considerarse son:
-- ¿Qué es innovación y qué no es innovación?
-- ¿En qué difieren las definiciones de innovación en la literatura?
-- ¿Por qué es relevante la innovación para los individuos, organizaciones y sociedad?
-- ¿Qué habilidades técnicas sirven para innovar?
-- ¿Cómo propiciar un entorno apto para la innovación?
-- ¿Es posible aumentar el potencial innovador de una idea?
-- ¿Cuáles son los retos prácticos al desarrollar la innovación?
-- ¿Cómo evaluar y autoevaluar la innovación?
-
-Las comprensiones deseadas al final del curso son:
-- Una visión multidimensional de la innovación.
-- Una postura crítica hacia el solucionismo a partir de ejemplos de innovación no tecnológicos, innovaciones de base, conocimiento ancestral y otros saberes con aplicaciones innovadoras.
-- La diferencia entre innovación y otros conceptos que crean confusión tales como: creatividad, tecnología, propuesta de valor y novedad.
-- Qué herramientas metodológicas utilizan los expertos para generar y evaluar las innovaciones a nivel individual y organizacional.
-- Las estructuras organizacionales y colaborativas a nivel global que permiten la innovación.
-- El potencial de la innovación en los ámbitos de gobierno, de negocios y de impacto social.
-- Las similitudes y diferencias entre innovación y el éxito comercial en una propuesta.
-- Las habilidades técnicas e interpersonales puede cultivar el estudiante para desarrollar innovación en el futuro.
-- La relación entre las propuesta de valor y la innovación en un modelo de negocios.
-
-Los estudiantes desarrollarán los siguientes conocimientos y habilidades:
-- Los siguientes conceptos clave: problemas enredados, innovación, innovación integrada, ecosistema de innovación, aceleración e incubación, tecnología, propuesta de valor, diseño centrado en las personas y solucionismo tecnológico.
-- Una contextualización de la innovación al contexto global, regional y nacional.
-- La capacidad de identificar actores y sus acciones en los ecosistemas de innovación.
-- Una noción básica de las maneras en las que las innovaciones impactan las sociedades.
-- La habilidad de realizar una revisión bibliográfica sobre aspectos técnicos como métodos, herramientas y tecnologías.
-- La capacidad de realizar una crítica a una propuesta de innovación a partir de la investigación y la aplicación de su criterio personal orientado a su contexto personal.
-
-### Etapa 2: Evidencias de aprendizaje
-
-- R1
-  - Los estudiantes elaborarán una definición personal de la innovación a partir de (1) los recursos planteados en clase, (2) vídeos con definiciones planteadas por expertos en tecnología e innovación y (3) la lectura de un artículo sobre el concepto de definición integrada.^[Visser, W. (2020). Integrated Innovation: Applying Systems Thinking to Sustainable Innovation and Transformation. Sustainability, 12(13), 5247. El estudiante deberá ser capaz de plantear las similitudes y divergencias en las definiciones.
-]
-  - Se desarrollará una pequeña investigación individual sobre un tema escogido por el estudiante en la que se definan hitos de la innovación con base en los criterios de la innovación integrada.
-  - Se utilizará la tétrada de medios de McLuhan^[Adam, I. (2016). What Would McLuhan Say about the Smartphone? Applying McLuhan’s Tetrad to the Smartphone. Glocality, 2(1), 3. https://doi.org/10.5334/glo.9
-] como herramienta de prospectiva del posible impacto una innovación.
-- R2
-  - Los estudiantes explorarán el concepto de "problemas enredados" a partir de la creación de un mapa de actores en el que se estudiarán las dimensiones ambientales, sociales y tecnológicas de los problemas.
-  - *Examen*: Se explorará la creación de valor integrado a partir de un mapa de actores y una propuesta de valor con la capacidad de generar deseabilidad a cada uno de ellos.
-  - Se hará un repaso de herramientas como el Business Model Canvas, Value Proposition Canvas y otros con un enfoque orientado a la innovación integrada.
-  - Se elaborará una revisión bibliográfica formal (con referencias en formato APA) sobre un tipo de innovación para comparar los abordajes de cada una con respecto a criterios de la innovación integrada.
-- R3
-  - Los estudiantes desarrollarán un producto multimedia (podcast, reel o blog) enfocado en uno de los Objetivos de Desarrollo Sostenible.
-  - Para el proyecto final, los estudiantes evaluarán una propuesta tecnológica para la creación de una propuesta de innovación, documentada y justificada, a partir de una propuesta de valor que mejore el alcance original de la solución original.
-  - Los estudiantes son capaces de defender sus propuestas de innovación del proyecto final.
-
-### Etapa 3—Plan de aprendizaje
+## Formato del curso
 Las clases se desarrollarán por medio del siguiente formato:
 
 - Clase 1 (asincrónica): 

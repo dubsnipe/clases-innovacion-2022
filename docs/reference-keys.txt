@@ -6,15 +6,13 @@ programa-de-clase
 antecedentes
 sobre-introducción-a-la-innovación
 resultados-esperados
-estrategia-metodológica
+etapa-2-evidencias-de-aprendizaje
 contenido
-evaluación
+formato-de-clases
+metodología-de-evaluación
 normas-generales-de-la-esen
 bibliografía-del-curso
-esquema-metodológico
-etapa-1-resultados-esperados
-etapa-2-evidencias-de-aprendizaje
-etapa-3plan-de-aprendizaje
+formato-del-curso
 fundamentos-sobre-la-innovación
 lo-que-no-es-innovación
 definamos-la-innovación
@@ -26,5 +24,7 @@ criterios-económicos
 criterios-sociales
 criterios-ambientales
 criterios-geográficos
+características-de-las-personas-innovadoras
+características-de-las-organizaciones-innovadoras
 section
 algunas-ideas
