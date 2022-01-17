@@ -45,6 +45,7 @@ Al finalizar este curso, el alumno:
 ## Contenido temático
 
 Semana 1
+
 * Clase 1. Presentación del curso y motivación
 * Clase 2 (asíncrona). Definición general de innovación.
 * Clase 3 (actividad). Hitos de la innovación
@@ -54,6 +55,7 @@ Semana 1
   * Los resultados se presentarán en una presentación sencilla de un máximo de seis diapositivas.
 
 Semana 2
+
 * Clase 4. Innovación en la literatura (Schumpeter, Drucker, Keller, etc.)
 * Clase 5 (asíncrona). Enfoques de la innovación
   * Invención e innovación
@@ -64,6 +66,7 @@ Semana 2
    * Escoger el hito más importante de la C3 y describir el contexto de su innovación. Presentar como un reporte de una página
 
 Semana 3
+
 * Clase 7. Innovación integrada y dimensiones.
   * Tarea (individual): hacer un mapa mental del artículo de Visser. Complementar con una definición personal de la innovación con el enfoque que más le interese.
 * Clase 8 (asíncrona). Consecuencias e impacto de la innovación.
@@ -72,11 +75,13 @@ Semana 3
 * Clase 9 (actividad). Elaborar una tétrada de McLuhan para dos innovaciones escogidas por el grupo orientadas a un ODS.
 
 Semana 4
+
 * Clase 10. Problemas enredados. Características.
 * Clase 11 (asíncrona). Cómo elaborar un mapeo de actores.
 * Clase 12 (actividad). Tarea en grupo. Elaborar un mapa de actores orientado al * ODS estudiado en la C7.
 
 Semana 5
+
 * Clase 13. Herramientas para la invención y resolución de problemas
   * Invención e ingeniería, Métodos analíticos de resolución de problemas, Diseño centrado en las personas, Diseño de negocios
 * Clase 14 (asíncrona). Herramientas para la invención y resolución de problemas (cont)
@@ -84,40 +89,47 @@ Semana 5
 * Clase 15. Actividad. TBD (propuesta: iniciar a trabajar en el examen)
 
 Semana 6
+
 * Examen: Elaborar en grupo mapa de actores junto con plan de acción para la innovación integrada
   * Orientado al ODS de su preferencia
   * Justificación de ideas 30%, Presentación 20%, Mapa de actores 20%, prueba de investigación (fuentes reflejadas en el producto) 30%.
 
 Semana 7
+
 * Clase 16. Innovación en las organizaciones. Características organizacionales.
 * Clase 17 (asíncrona). Ecosistemas de innovación
   * Tarea: Selección de las innovaciones más interesantes para podcast
 * Clase 18 (actividad). Creación de un guion para su podcast
 
 Semana 8
+
 * Clase 19. Incubación y aceleración de la innovación
 * Clase 20 (asíncrona). Innovación abierta
   * Tarea: Revisión e investigación con base en material de Benkler, Y. (2016). Peer production and cooperation. In Handbook on the Economics of the Internet. Edward Elgar Publishing.
 * Clase 21 (actividad). Preparación de presentación corta sobre modelos de colaboración y monetización en ecosistemas de innovación. Selección de proyecto final.
 
 Semana 9
+
 * Clase 22. Definición de propuestas de valor (revisión de canvas: BMC y VPC)
 * Clase 23 (asíncrona). Diseño de propuestas de valor
   * Tarea: Hacer una cuenta en Appropedia e iniciar su proyecto final.
   * Tarea: Entregar podcast y guion editado
-Clase 24 (actividad). Preparación de propuesta de valor para proyecto final y retroalimentación.
+* Clase 24 (actividad). Preparación de propuesta de valor para proyecto final y retroalimentación.
 
 Semana 10
+
 * Clase 25. Mínimo producto viable. Modelos y sistemas.
 * Clase 26 (asíncrona). Prototipado e innovación (fabricación digital, modelos, validaciones)
 * Clase 27 (actividad). Creación de pretotipos y fotografías.
 
 Semana 11
+
 * Clase 28. Retroalimentación de proyecto final
 * Clase 29 (asíncrona). Comunicando la innovación.
 * Clase 30. Retroalimentación de proyecto final
 
 Semana 12
+
 * Entrega de proyecto final
 
 
